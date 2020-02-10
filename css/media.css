@@ -1,0 +1,445 @@
+@media only screen and (max-width: 396px) {
+    #lg .contacts span {
+        display: block;
+        word-break: keep-all;
+    }
+    
+    #lg .contacts p:last-child {
+        word-break: keep-all;
+        
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    #lg .contacts {
+        margin-left: 8px;
+        margin-top: 10px;
+    } 
+    
+    #lg .contacts p {
+        margin-top: 15px;
+    }
+        
+    #lg .contacts p:first-child .fa-phone{
+      display: block;
+      position: relative;
+      margin-bottom: 5px;
+      left: 36px;
+      font-size: 27px;
+    }
+    
+     #lg .contacts p:nth-child(2) .fa-skype {
+       display: block;
+       position: relative;
+       margin-bottom: 5px;
+       left: 36px;
+       font-size: 27px; 
+    }
+    
+     #lg .contacts p:nth-child(3) .fa-envelope {
+       display: block;
+       position: relative;
+       margin-bottom: 5px;
+       left: 36px;
+       font-size: 27px; 
+    } 
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 800px) and (min-width: 280px) {
+    .container.wb .tab-pane {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+
+@media only screen and (max-width: 800px)  {
+    .container.wb {
+        height: 100%;
+        height: 570px;
+    }
+    
+    .wb .row {
+        padding-bottom: 0;
+        margin: 0;
+    }
+    
+    .wb .tabs {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .wb .tab-content {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .wb .tab-pane {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .img-responsive {
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width: 770px) {
+    .container.wb {
+        height: 560px;
+    }
+}
+
+@media only screen and (max-width: 740px) {
+    .container.wb {
+        height: 550px;
+    }
+}
+
+@media only screen and (max-width: 710px) {
+    .container.wb {
+        height: 540px;
+    }
+}
+
+@media only screen and (max-width: 685px) {
+    .container.wb {
+        height: 530px;
+    }
+}
+
+@media only screen and (max-width: 665px) {
+    .container.wb {
+        height: 520px;
+    }
+}
+
+@media only screen and (max-width: 645px) {
+    .container.wb {
+        height: 510px;
+    }
+}
+
+@media only screen and (max-width: 635px) {
+    .container.wb {
+        height: 500px;
+    }
+}
+
+@media only screen and (max-width: 625px) {
+    .container.wb {
+        height: 490px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .container.wb {
+        height: 475px;
+    }
+}
+
+@media only screen and (max-width: 560px) {
+    .container.wb {
+        height: 460px;
+    }
+}
+
+@media only screen and (max-width: 535px) {
+    .container.wb {
+        height: 440px;
+    }
+}
+
+@media only screen and (max-width: 505px) {
+    .container.wb {
+        height: 425px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .container.wb {
+        height: 410px;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .container.wb {
+        height: 395px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .container.wb {
+        height: 370px;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    #lg .col-md-4 {
+        padding-top: 15px;
+    }
+}
+
+@media only screen and (max-width: 991px) and (min-width: 320px) {
+    #lg {
+        margin: 0;
+        padding: 0;
+    }
+    
+    #lg .content {
+        padding: 0;
+        margin: 0;
+    }
+    
+    #lg .tab-content {
+        padding: 0;
+        margin: 0;
+    }
+    
+    #lg .tab-pane {
+        padding: 0;
+        margin: 0;
+    }
+    
+       #lg ul {
+       max-width: 242px;
+       width: 100%;
+       height: auto;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    #lg ul {
+        padding: 0;
+        margin: 0;
+    }
+    
+    #lg .col-lg-3 {
+        padding-right: 0;
+    }
+    
+    
+}
+
+@media only screen and (max-width: 991px) and (min-width: 700px) {
+   
+}
+
+
+
+
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    #lg .tab-content {
+        margin: 0 0 15px;
+    }
+    
+    #lg .contacts p:last-child{
+      word-wrap: normal;
+      white-space: nowrap;
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width: 767px) and (min-width: 320px) {
+     #lg .container {
+          padding-bottom: 20px;
+    }
+    
+    #lg .contacts p 
+}
+
+@media only screen and (max-width: 446px)  {
+    #lg .tab-pane h3 {
+        font-size: 28px;
+    }
+    
+    #lg .tab-pane p {
+        font-size: 16px;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 423px) {
+    #lg .contacts p {
+        width: 105px;
+    } 
+}
+
+
+
+
+
+@media only screen and (max-width: 320px) {
+    #lg .tab-pane h3 {
+        font-size: 24px;
+        padding: 10px 0 15px;
+        margin: 0;
+        word-break: keep-all;
+        word-wrap: normal;
+    }
+    
+    #lg .tab-content {
+        margin-left: 10px;
+        padding-top: 3px;
+        
+    }
+    
+    #lg .tab-pane:nth-child(3) p {
+        line-height: 1.6em;
+    }
+    
+    #lg .tab-pane p {
+        font-size: 16px;
+        padding-bottom: 0;
+    }
+}
+
+@media only screen and (max-width: 295px) {
+    #lg .tab-pane h3 {
+        margin-left: 15px;
+        font-size: 24px;
+        margin-bottom: 18px;
+    }
+    
+    #lg .tab-pane p {
+        margin-left: 15px;
+        margin-bottom: 0;
+        width: 115px;
+    }
+}
+
+@media only screen and (max-width: 284px) {
+    #lg .tab-pane h3 {
+        margin-bottom: 0;
+    }
+    
+    #lg .tab-pane p {
+        width: 119px;
+        padding: 0;
+        margin: 0 0 0 9px;
+        font-size: 15.5px;
+    }
+    
+   #lg .contacts span {
+        display: block;
+        word-break: keep-all;
+        white-space: nowrap;
+    }
+}
+
+
+
+
+    
+@media only screen and (max-width: 500px){
+    #r .cover span {
+        font-size: 14px;
+        min-width: 72px;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    #r .col-xs-4:last-child {
+        margin: 10px 0;
+    }
+}
+
+@media only screen and (max-width: 479px) and (min-width: 321px) { 
+    
+    #r .row {
+        justify-content: space-around;
+        margin-right: 20%;
+    }
+    
+    #r .col-xs-4 {
+        padding: 0;
+    }
+    
+    #r .col-xs-4:first-child {
+       margin-left: 0; 
+       margin-right: 60px;
+    }
+    
+    #r .col-xs-4:last-child {
+         margin-left: 26.5%;
+    }
+    
+    #r .cover {
+        width: 150px;
+        margin-left: 0px;
+    }
+    
+    #r .wraper {
+        min-width: 75px;
+    }
+}
+
+@media only screen and (max-width: 340px) and (min-width: 250px) {
+    
+    #r .row {
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding: 0 0 10px;
+    }
+    
+    #r .col-xs-4:first-child {
+        margin: 0 10%;
+    }
+    
+    #r .col-xs-4:nth-child(2) {
+        margin: 0 10%;
+    }
+    
+    #r .col-xs-4:last-child {
+        margin: 0 10%;
+    }
+    
+    #r .wraper {
+        min-width: 120px;
+    }
+}
+
+
+@media only screen and (max-width: 386px) {
+    #headerwrap h1 {
+        font-size: 55px;   
+       };
+   }
+
+@media only screen and (max-width: 320px){
+    #headerwrap h1 {
+        font-size: 35px;
+        font-weight: bold;
+    };
+    
+    p{
+        word-break: break-all;
+    };
+    
+    #r div h4{
+        font-size: 36px;
+        padding: 0;
+        white-space: pre-line;
+    }
+}
+
+
+
+

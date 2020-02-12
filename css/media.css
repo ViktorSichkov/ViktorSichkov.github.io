@@ -6,7 +6,6 @@
     
     #lg .contacts p:last-child {
         word-break: keep-all;
-        
     }
 }
 
@@ -45,19 +44,12 @@
     } 
 }
 
-
-
-
-
-
-
 @media only screen and (max-width: 800px) and (min-width: 280px) {
     .container.wb .tab-pane {
         padding-left: 20px;
         padding-right: 20px;
     }
 }
-
 
 @media only screen and (max-width: 800px)  {
     .container.wb {
@@ -181,9 +173,6 @@
     }
 }
 
-
-
-
 @media only screen and (max-width: 991px) and (min-width: 768px) {
     #lg .col-md-4 {
         padding-top: 15px;
@@ -227,17 +216,7 @@
     #lg .col-lg-3 {
         padding-right: 0;
     }
-    
-    
 }
-
-@media only screen and (max-width: 991px) and (min-width: 700px) {
-   
-}
-
-
-
-
 
 @media only screen and (max-width: 991px) and (min-width: 768px) {
     #lg .tab-content {
@@ -250,17 +229,10 @@
     }
 }
 
-
-
-
-
-
 @media only screen and (max-width: 767px) and (min-width: 320px) {
      #lg .container {
           padding-bottom: 20px;
     }
-    
-    #lg .contacts p 
 }
 
 @media only screen and (max-width: 446px)  {
@@ -273,18 +245,11 @@
     }
 }
 
-
-
-
 @media only screen and (max-width: 423px) {
     #lg .contacts p {
         width: 105px;
     } 
 }
-
-
-
-
 
 @media only screen and (max-width: 320px) {
     #lg .tab-pane h3 {
@@ -343,10 +308,6 @@
         white-space: nowrap;
     }
 }
-
-
-
-
     
 @media only screen and (max-width: 500px){
     #r .cover span {
@@ -394,8 +355,7 @@
 @media only screen and (max-width: 340px) and (min-width: 250px) {
     
     #r .row {
-        flex-wrap: wrap;
-        flex-direction: column;
+        flex-flow: column wrap;
         padding: 0 0 10px;
     }
     
@@ -415,7 +375,6 @@
         min-width: 120px;
     }
 }
-
 
 @media only screen and (max-width: 386px) {
     #headerwrap h1 {
@@ -439,7 +398,3 @@
         white-space: pre-line;
     }
 }
-
-
-
-

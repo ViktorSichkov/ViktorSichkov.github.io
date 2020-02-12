@@ -117,15 +117,9 @@ hr {
     text-align: center;
 }
 
-
 .navbar-inverse .navbar-collapse ul.dropdown-menu-right:nth-child(2){
   width: 185px;
-  
 }
-
-
-
-
 
 .navbar-inverse .dropdown-header {
     pointer-events: none;
@@ -303,14 +297,6 @@ hr {
     color: #cca52f;
 }
 
-
-
-
-
-
-
-
-
 .container.wb {
     background-color: #f7f3f3;
     padding-bottom: 82px;
@@ -323,7 +309,6 @@ hr {
     color: crimson;
     font-size: 35px;
     text-align: center;
-    
 }
 
 .wb .tabs {
@@ -381,15 +366,6 @@ hr {
     height: auto;
     border-radius: 3px;
 }
-
-
-
-
-
-
-
-
-
 
 #big-wrap {
     background-color: #ffeac3;
@@ -451,7 +427,6 @@ hr {
 
 #lg li a:hover {
     font-family: ;
-    
 }
 
 #lg ul {
@@ -513,18 +488,6 @@ hr {
     max-width: 100%;
     text-align: left;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 #r{
     display: inline-block;
@@ -665,80 +628,3 @@ hr {
 #f a:hover {
     color: khaki;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

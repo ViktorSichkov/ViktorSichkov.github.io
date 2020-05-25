@@ -2,7 +2,7 @@
 
 body {
     background-color: #f2f2f2;
-    font-family: "Lato"
+    font-family: "Lato";
     font-weight: 300;
     font-size: 16px;
     color: #555;
@@ -36,6 +36,7 @@ a:hover, a:focus {
    color: #7b7b7b;
    text-decoration: none;
    outline: 0; 
+	font-weight: bolder;
 }
 
 hr {
@@ -425,9 +426,9 @@ hr {
     z-index: 1;
 }
 
-#lg li a:hover {
+/* #lg li a:hover {
     font-family: ;
-}
+} */
 
 #lg ul {
    margin-top: -5px;
